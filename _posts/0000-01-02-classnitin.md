@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Nitin Naik
+Nitin Naik, Yeshwant Mahavidyalaya Nanded
